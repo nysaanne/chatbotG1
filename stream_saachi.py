@@ -3,7 +3,7 @@ import google.generativeai as genai
 import json
 
 # Configure the API key (replace with your actual key)
-API_KEY = "AIzaSyBtwg7iIf1wXtGTSrQCbRw1aC0FdJi50KY"
+API_KEY = ''
 genai.configure(api_key=API_KEY)
 
 # Instantiate the generative model
